@@ -1,0 +1,27 @@
+#If it is not a bot write human else Bot
+#Parrot
+print("In tropical realms where colors bloom,")
+print("A parrot perches in nature's room,")
+print("Its plumage vibrant, a living art,")
+print("A symphony of hues that warms the heart.")
+print("With feathers like a rainbow's grace,")
+print("It wears the colors of a magical place,")
+print("From emerald green to sapphire blue,")
+print("A painter's palette brought to life anew.")
+print("With every squawk and cheerful chatter,")
+print("It flaunts its palette, a living matter,")
+print("A canvas of nature, a rainbow's embrace,")
+print("A parrot's colors, a dazzling showcase.")
+print("In the lush jungle, it takes its flight,")
+print("A burst of colors against the light,")
+print("A symbol of joy, in the wild it soars,")
+print("In nature's gallery, it forever adores.")
+print("So, let us cherish the parrot's delight,")
+print("Its vibrant colors in the soft sunlight,")
+print("A reminder of nature's radiant hues,")
+print("In every feather, a masterpiece, choose.")
+Question = input ("Bot or not?")
+if Question == ("Bot"):
+	print("well done!")
+elif Question == ("Human"):
+	print("try again.")
